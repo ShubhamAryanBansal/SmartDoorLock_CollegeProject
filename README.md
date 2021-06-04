@@ -6,7 +6,7 @@ As it is a security based application I have used OTP authentication using googl
 
 I am also saving the data of each user who is accessing the door by specific time and date, locally in the phone. 
 
-<img src="screenshot_of_app/1.jpg" width="150" >
+<img src="screenshots_of_app/1.jpg" width="150" >
 
 
 
