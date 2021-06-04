@@ -5,6 +5,8 @@ Purpose of making this application was to access the door without touching it.
 As it is a security based application I have used OTP authentication using google Firebase. I have used bluetooth libraries of flutter for connection with Arduino Motor which is connected with HC -05 bluetooth module further connected with servo motor. So application sends the signals to open the door or lock the door. 
 
 I am also saving the data of each user who is accessing the door by specific time and date, locally in the phone. 
+
+
 ![Screenshot_2020-08-11-01-06-07-361_com example SmartBell](https://user-images.githubusercontent.com/69369116/120768952-461cce00-c53a-11eb-8a2c-5ca51351302b.jpg)
 ![Screenshot_2020-08-11-01-06-14-500_com example SmartBell](https://user-images.githubusercontent.com/69369116/120768957-474dfb00-c53a-11eb-8b6d-d7e88cf5262f.jpg)
 ![Screenshot_2020-08-11-01-06-25-127_com example SmartBell](https://user-images.githubusercontent.com/69369116/120768960-47e69180-c53a-11eb-922f-0aedd862fe94.jpg)
